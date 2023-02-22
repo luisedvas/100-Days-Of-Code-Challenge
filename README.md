@@ -3,11 +3,11 @@
 
 ## Day 0: February 21, 2023.
 
-**Todays´s Progress:** started with HTML. Worked on HTML tags structure for a web page. I added headers, paragraphs, images, comments and some semantic HTML elements, such as main and section.
+**Todays´s Progress:** Started with HTML. Worked on HTML tags structure for a web page. I added headers, paragraphs, images, comments and some semantic HTML elements, such as main and section.
 
-**Thoughts:** I really not struggled with HTML, overall, I feel I am slowsly getting better.
+**Thoughts:** I really not struggled with HTML, overall, I feel I am slowly getting better.
 
-**Link to work:** [Interactive map of local sectors](https://codepen.io/diazluis93/pen/WNKgavz)
+**Link to work:** [Architecture Web Project](https://codepen.io/pen/?editors=1100)
 
 ## Day 1: February 22, 2023.
 
