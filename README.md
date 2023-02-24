@@ -17,4 +17,14 @@
 
 **Link to work:** [Architecture Web Project](https://codepen.io/pen/?editors=1100)
 
+## Day 2: February 23, 2023.
+
+**Todays's Progress:** I revisit the code I write yesterday. I incorporate a form element and take some key takeways about that.
+
+**Thoughts:** Yesterday I fell pretty good. Today I feel I litlle tired, with headaches. 
+
+**Link to work:** [Architecture Web Project](https://codepen.io/pen/?editors=1100)
+
+
+
 
