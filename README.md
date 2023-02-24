@@ -7,7 +7,7 @@
 
 **Thoughts:** I really not struggled with HTML, overall, I feel I am slowly getting better.
 
-**Link to work:** [Architecture Web Project](https://codepen.io/pen/?editors=1100)
+**Link to work:** [Architecture Web Project](https://codepen.io/diazluis93/pen/ExeKpOO)
 
 ## Day 1: February 22, 2023.
 
@@ -15,7 +15,7 @@
 
 **Thought:** I really struggled with form funcionality, but, oveall, I think I´m getting better. I undertand the structure of HTML really quickly.
 
-**Link to work:** [Architecture Web Project](https://codepen.io/pen/?editors=1100)
+**Link to work:** [Architecture Web Project](https://codepen.io/diazluis93/pen/ExeKpOO)
 
 ## Day 2: February 23, 2023.
 
@@ -23,7 +23,7 @@
 
 **Thoughts:** Yesterday I fell pretty good. Today I feel I litlle tired, with headaches. 
 
-**Link to work:** [Architecture Web Project](https://codepen.io/pen/?editors=1100)
+**Link to work:** [Architecture Web Project](https://codepen.io/diazluis93/pen/ExeKpOO)
 
 
 
