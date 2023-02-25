@@ -25,6 +25,13 @@
 
 **Link to work:** [Architecture Web Project](https://codepen.io/diazluis93/pen/ExeKpOO)
 
+## Day 3: February 24, 2023.
+
+**Today's Progress:** I practice some basic command line interface commands in Ubuntu. I learn ls, cd, pwd, ls -l, ls -lh and others great commands. I also practice how to make radio buttons in HTML. 
+
+**Thoughts:** I feel beter today and I could practice pretty well.
+
+**Link to work:** [Radio buttons]()
 
 
 
