@@ -33,5 +33,9 @@
 
 **Link to work:** [Radio buttons]()
 
+## Day 4: February 27, 2023.
 
+**Today's Progress:** I'm still practicing some console and introduction to command line in Linux. Basically, I practice about form registrations in HTML, that includes radio buttons, checkbox and understanding input tag.
+
+**Thoughts:** I was a good short practice today.
 
