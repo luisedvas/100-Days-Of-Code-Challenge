@@ -44,3 +44,5 @@
 **Today's Progress:** I keep practicing about form tag in HTML. I was fun and I make a little project of a music app.
 
 **Thoughts:** I feel better. I think I'm capapble of learn to code during this month if I put the hours.
+
+Day 6: March 3, 2023.
