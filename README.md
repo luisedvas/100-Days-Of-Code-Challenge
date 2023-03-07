@@ -39,7 +39,7 @@
 
 **Thoughts:** I was a good short practice today, I tried to go really slowly.
 
-**Link to work:** [Form registration]()
+**Link to work:** [Form registration](https://codepen.io/diazluis93/pen/XWPeWRY?editors=1100)
 
 ## Day 5: March 1, 2023.
 
