@@ -48,3 +48,9 @@
 **Thoughts:** I feel better. I think I'm capapble of learn to code during this month if I put the hours.
 
 **Link to work:** [Music taste analyzer app]()
+
+## Day 6: March 9, 2023.
+
+**Today´s Progress:** I am enthused to refresh and expand my coding skills. Today I revisit HTML and CSS, using freeCodeCamp resources.
+
+**Thoughts:** I feel pretty great. I practice a lot, like about ~2/3hr.
